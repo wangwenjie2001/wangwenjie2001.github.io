@@ -12,3 +12,7 @@
     left: 0;
     top: 0;
 }
+/* 看板娘 */
+#live2d-widget {
+    right: 50px !important;
+}
